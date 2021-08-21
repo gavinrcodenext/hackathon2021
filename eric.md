@@ -7,7 +7,7 @@ Click **<a href="" class="button">here</a>** if you are completely new to coding
 
 ### On a scale from 1-5, answer questions as honestly as possible, 1 being no knowledge of the subject and 5 being an understanding of the subject
 
-How much do you understand of number variables?
+**How much do you understand of number variables?**
 <div class="button-group minor-group">
     <button class="button" type="submit">5 - Used it many times</button>
     <button class="button" type="submit">4 - Used it once or twice</button>
@@ -16,7 +16,7 @@ How much do you understand of number variables?
     <button class="button" type="submit">1 - Never heard of it</button>
 </div>
 
-How much do you understand of booleans and logic gates?
+**How much do you understand of booleans and logic gates?**
 <div class="button-group minor-group">
     <button class="button" type="submit">5 - Used it many times</button>
     <button class="button" type="submit">4 - Used it once or twice</button>
@@ -25,7 +25,7 @@ How much do you understand of booleans and logic gates?
     <button class="button" type="submit">1 - Never heard of it</button>
 </div>
 
-How much do you understand of loops?
+**How much do you understand of loops?**
 <div class="button-group minor-group">
     <button class="button" type="submit">5 - Used it many times</button>
     <button class="button" type="submit">4 - Used it once or twice</button>
@@ -34,7 +34,7 @@ How much do you understand of loops?
     <button class="button" type="submit">1 - Never heard of it</button>
 </div>
 
-How much do you understand of objects?
+**How much do you understand of objects?**
 <div class="button-group minor-group">
     <button class="button" type="submit">5 - Used it many times</button>
     <button class="button" type="submit">4 - Used it once or twice</button>
@@ -43,7 +43,7 @@ How much do you understand of objects?
     <button class="button" type="submit">1 - Never heard of it</button>
 </div>
 
-How much do you understand of String objects?
+**How much do you understand of String objects?**
 <div class="button-group minor-group">
     <button class="button" type="submit">5 - Used it many times</button>
     <button class="button" type="submit">4 - Used it once or twice</button>
