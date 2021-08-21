@@ -2,7 +2,8 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title></title>
+	<h1>Hey Guys! Welcome to..</h1>
+	<title>Courses</title>
 </head>
 <body>
 
