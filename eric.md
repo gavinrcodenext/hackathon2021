@@ -2,7 +2,7 @@
 
 ## If you know about code, you can assess your abilities here for a better starter experience!
 Click **<a href="" class="button">here</a>** if you are completely new to coding or want to skip the diagnostic
-  
+<br />
 ### On a scale from 1-5, answer questions as honestly as possible, 1 being no knowledge of the subject and 5 being an understanding of the subject
 
 **How much do you understand of number variables?**
@@ -53,3 +53,4 @@ Click **<a href="" class="button">here</a>** if you are completely new to coding
     <button class="button" type="submit">2 - Heard of it, but never use it</button>
     <button class="button" type="submit">1 - Never heard of it</button>
 </div>
+
