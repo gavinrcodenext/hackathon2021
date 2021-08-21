@@ -9,8 +9,9 @@ Click **<a href="" class="button">here</a>** if you are completely new to coding
 
 How much do you understand of variables?
 <div class="button-group minor-group">
-    <a href="#" class="button primary">Dashboard</a>
-    <a href="#" class="button">Inbox</a>
-    <a href="#" class="button">Account</a>
-    <a href="#" class="button">Logout</a>
+    <button class="button" type="submit">5</button>
+    <button class="button" type="submit">4</button>
+    <button class="button" type="submit">3</button>
+    <button class="button" type="submit">2</button>
+    <button class="button" type="submit">1</button>
 </div>
