@@ -2,6 +2,6 @@
 
 If you know about code, you can assess your abilities here for a better starter experience!
 
-<a href="#" class="button">Post comment (link)</a>
-<input class="button" type="submit" value="Post comment (input)">
-<button class="button" type="submit">Post comment (button)</button>
+Click here if you are completely new to coding or want to skip the diagnostic
+<a href="#" class="button">Skip Diagnostic</a>
+
