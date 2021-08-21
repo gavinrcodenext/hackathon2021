@@ -15,7 +15,6 @@ How much do you understand of number variables?
     <button class="button" type="submit">2 - Heard of it, but never use it</button>
     <button class="button" type="submit">1 - Never heard of it</button>
 </div>
-//asodgnasog
 
 How much do you understand of booleans and logic gates?
 <div class="button-group minor-group">
