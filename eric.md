@@ -46,4 +46,4 @@ Click **<a href="" class="button">here</a>** if you are completely new to coding
 </div>
 <br />
 
-//These buttons do not serve a function, need help getting them to store information so we can make course recommendations
+//These buttons do not serve a function at the moment, need help getting them to store information so we can make course recommendations
