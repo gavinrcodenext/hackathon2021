@@ -9,39 +9,39 @@ Click **<button class="courses" onclick="document.location='https://gavinrcodene
 **1. How much do you understand of number variables?**
 <div class="button-group minor-group">
     <button type="button" value="3" data-value="3">3 - Very familiar with using them</button>
-    <button class="button" type="submit">2 - Used them a few times</button>
-    <button class="button" type="submit">1 - Never heard of it</button>
+    <button type="button" value="3" data-value="2">2 - Used them a few times</button>
+    <button type="button" value="3" data-value="1">1 - Never heard of it</button>
 </div>
 <br />
 
 **2. How much do you understand of booleans and logic gates?**
 <div class="button-group minor-group">
-    <button class="button" type="submit">3 - Very familiar with using them</button>
-    <button class="button" type="submit">2 - Used them a few times</button>
-    <button class="button" type="submit">1 - Never heard of it</button>
+    <button type="button" value="3" data-value="3">3 - Very familiar with using them</button>
+    <button type="button" value="3" data-value="2">2 - Used them a few times</button>
+    <button type="button" value="3" data-value="1">1 - Never heard of it</button>
 </div>
 <br />
 
 **3. How much do you understand of loops?**
 <div class="button-group minor-group">
-    <button class="button" type="submit">3 - Very familiar with using them</button>
-    <button class="button" type="submit">2 - Used them a few times</button>
-    <button class="button" type="submit">1 - Never heard of it</button>
+    <button type="button" value="3" data-value="3">3 - Very familiar with using them</button>
+    <button type="button" value="3" data-value="2">2 - Used them a few times</button>
+    <button type="button" value="3" data-value="1">1 - Never heard of it</button>
 </div>
 <br />
 
 **4.How much do you understand of objects?**
 <div class="button-group minor-group">
-    <button class="button" type="submit">3 - Very familiar with using them</button>
-    <button class="button" type="submit">2 - Used them a few times</button>
-    <button class="button" type="submit">1 - Never heard of it</button>
+    <button type="button" value="3" data-value="3">3 - Very familiar with using them</button>
+    <button type="button" value="3" data-value="2">2 - Used them a few times</button>
+    <button type="button" value="3" data-value="1">1 - Never heard of it</button>
 </div>
 <br />
 
 **5. How much do you understand of String objects?**
 <div class="button-group minor-group">
-    <button class="button" type="submit">3 - Very familiar with using them</button>
-    <button class="button" type="submit">2 - Used them a few times</button>
-    <button class="button" type="submit">1 - Never heard of it</button>
+    <button type="button" value="3" data-value="3">3 - Very familiar with using them</button>
+    <button type="button" value="3" data-value="2">2 - Used them a few times</button>
+    <button type="button" value="3" data-value="1">1 - Never heard of it</button>
 </div>
 <br />
