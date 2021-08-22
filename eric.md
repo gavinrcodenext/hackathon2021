@@ -6,7 +6,7 @@ Click **<a href="" class="button">here</a>** if you are completely new to coding
 
 ### On a scale from 1-3, answer questions as honestly as possible
 
-**How much do you understand of number variables?**
+**1. How much do you understand of number variables?**
 <div class="button-group minor-group">
     <button class="button" type="submit">3 - Very familiar with using them</button>
     <button class="button" type="submit">2 - Used them a few times</button>
@@ -14,7 +14,7 @@ Click **<a href="" class="button">here</a>** if you are completely new to coding
 </div>
 <br />
 
-**How much do you understand of booleans and logic gates?**
+**2. How much do you understand of booleans and logic gates?**
 <div class="button-group minor-group">
     <button class="button" type="submit">3 - Very familiar with using them</button>
     <button class="button" type="submit">2 - Used them a few times</button>
@@ -22,7 +22,7 @@ Click **<a href="" class="button">here</a>** if you are completely new to coding
 </div>
 <br />
 
-**How much do you understand of loops?**
+**3. How much do you understand of loops?**
 <div class="button-group minor-group">
     <button class="button" type="submit">3 - Very familiar with using them</button>
     <button class="button" type="submit">2 - Used them a few times</button>
@@ -30,7 +30,7 @@ Click **<a href="" class="button">here</a>** if you are completely new to coding
 </div>
 <br />
 
-**How much do you understand of objects?**
+**4.How much do you understand of objects?**
 <div class="button-group minor-group">
     <button class="button" type="submit">3 - Very familiar with using them</button>
     <button class="button" type="submit">2 - Used them a few times</button>
@@ -38,7 +38,7 @@ Click **<a href="" class="button">here</a>** if you are completely new to coding
 </div>
 <br />
 
-**How much do you understand of String objects?**
+**5. How much do you understand of String objects?**
 <div class="button-group minor-group">
     <button class="button" type="submit">3 - Very familiar with using them</button>
     <button class="button" type="submit">2 - Used them a few times</button>
