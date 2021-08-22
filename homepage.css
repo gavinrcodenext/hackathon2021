@@ -1,0 +1,154 @@
+body{
+  background-image: url("200.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+h1{
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 5em;
+  border: 4px solid powderblue;
+  padding: 10px;
+  border-radius: 6px;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+
+p{
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 2.5em;
+  border: 4px solid powderblue;
+  border-radius: 6px;
+  margin-right: 250px;
+  margin-left: 250px;
+}
+
+.courses{
+  border-radius: 4px;
+  font-family: 'Source Code Pro', monospace;
+  background-color: #f4511e;
+  border: none;
+  justify-content: center;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin-left: 400px;
+}
+
+.courses span{
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.courses span:after{
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;s
+  transition: 0.5s;
+}
+
+.courses hover span{
+  padding-right: 25px;
+}
+
+.courses:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+.survey{
+  border-radius: 4px;
+  font-family: 'Source Code Pro', monospace;
+  background-color: #f4511e;
+  border: none;
+  justify-content: center;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+
+.survey span{
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.survey span:after{
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;s
+  transition: 0.5s;
+}
+
+.survey hover span{
+  padding-right: 25px;
+}
+
+.survey:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+.points{
+  border-radius: 4px;
+  font-family: 'Source Code Pro', monospace;
+  background-color: #f4511e;
+  border: none;
+  justify-content: center;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+
+.points span{
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.points span:after{
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;s
+  transition: 0.5s;
+}
+
+.points hover span{
+  padding-right: 25px;
+}
+
+.points:hover span:after {
+  opacity: 1;
+  right: 0;
+}
