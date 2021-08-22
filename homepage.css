@@ -1,8 +1,9 @@
 body{
-  background-image: url("200.gif");
-  background-repeat: no-repeat;
-  background-attachment: fixed;  
-  background-size: cover;
+  background-color: powderblue;
+}
+
+.codeImage {
+   background-image: url("200.gif");
 }
 
 h1,h2,h3,h4,h5{
