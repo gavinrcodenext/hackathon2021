@@ -44,6 +44,27 @@ ol,ul{
   margin-left: 250px;
 }
 
+navli {
+  float: left;
+}
+
+navlia {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+navlia:hover {
+  background-color: #111;
+}
+
+
+.active {
+  background-color: #333;
+}
+
 .nav {
   list-style-type: none;
   display: flex;
