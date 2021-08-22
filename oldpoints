@@ -1,0 +1,152 @@
+<link rel="stylesheet" href="https://pypro.s3.amazonaws.com/static/css/custom.css?AWSAccessKeyId=AKIAZBW43IBKQNPRECTZ&amp;Signature=T%2BD1U8YAtim9IaxMh3Vzk0rrhlE%3D&amp;Expires=1629657238"/>
+        <link rel="stylesheet" href="https://pypro.s3.amazonaws.com/static/css/default.css?AWSAccessKeyId=AKIAZBW43IBKQNPRECTZ&amp;Signature=9yoyjsYATdNFyqwzSuoUADRvhUM%3D&amp;Expires=1629657238"/>
+        <link href='//fonts.googleapis.com/css?family=Ubuntu:400,500' rel='stylesheet' type='text/css'/>
+
+
+    <div class="container">
+        <h1 class="mt-5 mb-2">Todos os Cursos</h1>
+
+        <div class="row">
+            
+                <div class="col-sm-4 mt-3 mb-2">
+                    <div class="card">
+                        <div class="card-header bg-primary text-white">
+                            <b>Python Birds</b>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Objetivo</h5>
+                            <p class="card-text">Introduzir programação Procedural e Orientação a Objetos em Python.</p>
+                            <a href="/modulos/descricao/python-birds/" class="btn btn-secondary">Saiba
+                                Mais</a>
+                            
+                                <a href="/modulos/python-birds/" class="btn btn-success"> Acessar</a>
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+
+            
+                <div class="col-sm-4 mt-3 mb-2">
+                    <div class="card">
+                        <div class="card-header bg-primary text-white">
+                            <b>PyTools</b>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Objetivo</h5>
+                            <p class="card-text"> Apresentar um conjunto de ferramentas básico, mas poderoso, que Pythoni...</p>
+                            <a href="/modulos/descricao/pytools/" class="btn btn-secondary">Saiba
+                                Mais</a>
+                            
+                                <a href="/inscricao" class="btn btn-success"> Eu quero!</a>
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+
+            
+                <div class="col-sm-4 mt-3 mb-2">
+                    <div class="card">
+                        <div class="card-header bg-primary text-white">
+                            <b>Django</b>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Objetivo</h5>
+                            <p class="card-text">Construção de web site</p>
+                            <a href="/modulos/descricao/django/" class="btn btn-secondary">Saiba
+                                Mais</a>
+                            
+                                <a href="/inscricao" class="btn btn-success"> Eu quero!</a>
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+
+            
+                <div class="col-sm-4 mt-3 mb-2">
+                    <div class="card">
+                        <div class="card-header bg-primary text-white">
+                            <b>Entrevistas Técnicas</b>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Objetivo</h5>
+                            <p class="card-text"> Aprender como ocorre o processo seletivo de empresas gringas e as quest...</p>
+                            <a href="/modulos/descricao/entrevistas-tecnicas/" class="btn btn-secondary">Saiba
+                                Mais</a>
+                            
+                                <a href="/inscricao" class="btn btn-success"> Eu quero!</a>
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+
+            
+                <div class="col-sm-4 mt-3 mb-2">
+                    <div class="card">
+                        <div class="card-header bg-primary text-white">
+                            <b>Objetos Pythônicos</b>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Objetivo</h5>
+                            <p class="card-text"> Aprofundar o conhecimento de Orientação a Objetos tendo em vista as pec...</p>
+                            <a href="/modulos/descricao/objetos-pythonicos/" class="btn btn-secondary">Saiba
+                                Mais</a>
+                            
+                                <a href="/inscricao" class="btn btn-success"> Eu quero!</a>
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+
+            
+                <div class="col-sm-4 mt-3 mb-2">
+                    <div class="card">
+                        <div class="card-header bg-primary text-white">
+                            <b>Python para Pythonistas</b>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Objetivo</h5>
+                            <p class="card-text"> Curso para desvendar módulos avançados da linguagem, em geral utilizado...</p>
+                            <a href="/modulos/descricao/python-para-pythonistas/" class="btn btn-secondary">Saiba
+                                Mais</a>
+                            
+                                <a href="/inscricao" class="btn btn-success"> Eu quero!</a>
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+
+            
+                <div class="col-sm-4 mt-3 mb-2">
+                    <div class="card">
+                        <div class="card-header bg-primary text-white">
+                            <b>Python Patterns</b>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Objetivo</h5>
+                            <p class="card-text"> Apresentar técnicas de programação orientada a objetos e padrões de pro...</p>
+                            <a href="/modulos/descricao/python-patterns/" class="btn btn-secondary">Saiba
+                                Mais</a>
+                            
+                                <a href="/inscricao" class="btn btn-success"> Eu quero!</a>
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+
+            
+        </div>
+    </div>
