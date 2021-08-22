@@ -1,7 +1,7 @@
 # Diagnostic Survey
 
 ## If you know about code, you can assess your abilities here for a better starter experience!
-Click **<a href="" class="button">here</a>** if you are completely new to coding or want to skip the diagnostic
+Click **<button class="courses" onclick="document.location='hackathon.html'" type="submit"><span>here</span></button>** if you are completely new to coding or want to skip the diagnostic
 <br />
 
 ### On a scale from 1-3, answer questions as honestly as possible
