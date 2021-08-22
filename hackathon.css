@@ -36,6 +36,7 @@ h2{
 	border: 4px solid powderblue;
   	padding: 5px;
   	border-radius: 6px;
+	background: black;
 }
 
 p{
@@ -46,6 +47,7 @@ p{
 	text-align: center;
 	font-size: 1.75em;
 	float: left;
+	background: black;
 	border: 4px solid powderblue;
 	margin: 25px 550px 75px 550px;
   
@@ -74,6 +76,8 @@ p{
 	border: 4px solid powderblue;
   	padding: 5px;
   	border-radius: 6px;
+	background: black;
+
 }
 
 .mid{
@@ -86,6 +90,7 @@ p{
 	border: 4px solid powderblue;
   	padding: 5px;
   	border-radius: 6px;
+	background: black;
 }
 
 ul {
