@@ -19,9 +19,22 @@ h1,h2,h3,h4,h5{
   background: black;
 }
 
-p,ol,ul{
+p{
   color: rgb(255, 255, 255);
   display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 2.5em;
+  border: 4px solid powderblue;
+  border-radius: 6px;
+  margin-right: 250px;
+  background: black;
+  margin-left: 250px;
+}
+
+ol,ul{
+  color: rgb(255, 255, 255);
   justify-content: center;
   text-align: center;
   font-family: 'Source Code Pro', monospace;
