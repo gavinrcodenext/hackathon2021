@@ -202,7 +202,7 @@ border-radius: 6px;
   right: 0;
 }
 
-.points{
+.html{
   border-radius: 4px;
   font-family: 'Source Code Pro', monospace;
   background-color: #f4511e;
@@ -231,14 +231,14 @@ border-radius: 6px;
   
 }
 
-.points span{
+.html span{
   cursor: pointer;
   display: inline-block;
   position: relative;
   transition: 0.5s;
 }
 
-.points span:after{
+.html span:after{
   content: '\00bb';
   position: absolute;
   opacity: 0;
@@ -247,11 +247,11 @@ border-radius: 6px;
   transition: 0.5s;
 }
 
-.points hover span{
+.html hover span{
   padding-right: 25px;
 }
 
-.points:hover span:after {
+.html:hover span:after {
   opacity: 1;
   right: 0;
 }
