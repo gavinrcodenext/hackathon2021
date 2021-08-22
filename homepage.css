@@ -44,6 +44,18 @@ ol,ul{
   margin-left: 250px;
 }
 
+nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #00f2fa;
+  font-family: 'Source Code Pro', monospace;
+  border: 4px solid powderblue;
+  padding: 5px;
+  border-radius: 6px;
+}
+
 .courses{
   border-radius: 4px;
   font-family: 'Source Code Pro', monospace;
