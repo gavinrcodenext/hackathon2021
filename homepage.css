@@ -19,20 +19,7 @@ h1,h2,h3,h4,h5{
   background: black;
 }
 
-p{
-  color: rgb(255, 255, 255);
-  display: flex;
-  justify-content: center;
-  text-align: center;
-  font-family: 'Source Code Pro', monospace;
-  border: 4px solid powderblue;
-  border-radius: 6px;
-  margin-right: 250px;
-  background: black;
-  margin-left: 250px;
-}
-
-ol,ul{
+p,ol,ul{
   color: rgb(255, 255, 255);
   justify-content: center;
   text-align: center;
