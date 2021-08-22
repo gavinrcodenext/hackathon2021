@@ -56,7 +56,7 @@ li a:hover {
 }
 
 .code{
-  color: rgb(255, 255, 255);
+ 	color: rgb(255, 255, 255);
 	display: flex;
 	justify-content: center;
 	background-color: black;
@@ -64,8 +64,9 @@ li a:hover {
 	font-family: 'Source Code Pro', monospace;
 	font-size: 2em;
 	border: 4px solid powderblue;
-  padding: 5px;
-  border-radius: 6px;
+	padding: 3px;
+	border-radius: 6px;
+	
 }
 
 
