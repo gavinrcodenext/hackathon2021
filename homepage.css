@@ -98,11 +98,12 @@ border-radius: 6px;
   justify-content: center;
   color: #FFFFFF;
   text-align: center;
-  font-size: 18px;
+  font-size: 28px;
   padding: 20px;
   width: 200px;
   transition: all 0.5s;
   cursor: pointer;
+  margin-left: 400px;
 }
 
 .html{
@@ -146,7 +147,7 @@ border-radius: 6px;
   right: 0;
 }
 
-.survey{
+survey{
   border-radius: 4px;
   font-family: 'Source Code Pro', monospace;
   background-color: #f4511e;
