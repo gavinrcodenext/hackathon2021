@@ -1,11 +1,10 @@
 body{
   background-color: powderblue;
-  height: 100%;
 }
 
 .codeImage {
    background-image: url("200.gif");
-  height: 50%;
+  width: 100%;
   
 }
 
