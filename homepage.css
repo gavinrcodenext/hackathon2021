@@ -55,6 +55,19 @@ li a:hover {
   background-color: #111;
 }
 
+.code{
+  color: rgb(255, 255, 255);
+	display: flex;
+	justify-content: center;
+	background-color: black;
+	text-align: center;
+	font-family: 'Source Code Pro', monospace;
+	font-size: 2em;
+	border: 4px solid powderblue;
+  padding: 5px;
+  border-radius: 6px;
+}
+
 
 .active {
   background-color: #333;
