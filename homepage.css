@@ -106,6 +106,39 @@ border-radius: 6px;
   margin-left: 400px;
 }
 
+.survey{
+  border-radius: 4px;
+  font-family: 'Source Code Pro', monospace;
+  background-color: #f4511e;
+  border: none;
+  justify-content: center;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin-left: 400px;	
+}
+
+.html{
+  border-radius: 4px;
+  font-family: 'Source Code Pro', monospace;
+  background-color: #f4511e;
+  border: none;
+  justify-content: center;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin-left: 400px;
+}
+
+
 .courses span{
   cursor: pointer;
   display: inline-block;
