@@ -98,12 +98,11 @@ border-radius: 6px;
   justify-content: center;
   color: #FFFFFF;
   text-align: center;
-  font-size: 28px;
+  font-size: 18px;
   padding: 20px;
   width: 200px;
   transition: all 0.5s;
   cursor: pointer;
-  margin-left: 400px;
 }
 
 .survey{
@@ -114,12 +113,11 @@ border-radius: 6px;
   justify-content: center;
   color: #FFFFFF;
   text-align: center;
-  font-size: 28px;
+  font-size: 18px;
   padding: 20px;
   width: 200px;
   transition: all 0.5s;
   cursor: pointer;
-  margin-left: 400px;	
 }
 
 .html{
@@ -130,12 +128,12 @@ border-radius: 6px;
   justify-content: center;
   color: #FFFFFF;
   text-align: center;
-  font-size: 28px;
+  font-size: 18px;
   padding: 20px;
   width: 200px;
   transition: all 0.5s;
   cursor: pointer;
-  margin-left: 400px;
+ 
 }
 
 
