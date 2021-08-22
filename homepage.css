@@ -4,7 +4,7 @@ body{
 
 .codeImage {
   background-image: url("200.gif");
-  bacgkround-width: 100%;
+  bacgkround-size: cover;
 }
 
 h1,h2,h3,h4,h5{
